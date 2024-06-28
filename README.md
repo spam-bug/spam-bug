@@ -1,16 +1,16 @@
-## Hi there 👋
+![Profile Banner](https://github.com/spam-bug/spam-bug/blob/main/github-header-image.png?raw=true)
 
-<!--
-**spam-bug/spam-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=laravel)
+![AlpineJS](https://img.shields.io/badge/-AlpineJS-333333?style=flat&logo=alpine.js)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-Here are some ideas to get you started:
+I'm a passionate full-stack web developer from the Philippines, currently residing in Bataan. With 2 years of experience and a knack for video editing, I bring a unique blend of creativity and technical expertise to every project. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spambug)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlimp003@gmail.com)
